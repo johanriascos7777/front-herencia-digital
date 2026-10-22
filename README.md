@@ -4,7 +4,6 @@ Frontend mínimo (React + Vite + ethers v6) para el contrato `DigitalInheritance
 
 - 🎬 **Video de presentación y demo:** https://go.screenpal.com/watch/cO6F3knyb0S
 - ⛓️ **Repo del backend (contratos):** https://github.com/MaximoBaronee/herencia-digital
-- 🌐 **Front publicado:** _pendiente_
 - 📄 **Whitepaper:** _pendiente_
 
 ## 🚀 Puesta en marcha
